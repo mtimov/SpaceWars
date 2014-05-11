@@ -1,0 +1,17 @@
+C:\Users\Martin\Desktop\TowerDefenseProject\TowerDefence\TowerDefence\obj\Debug\TowerDefence.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\TowerDefenseProject\TowerDefence\TowerDefence\obj\Debug\TowerDefence.Form1.resources
+C:\Users\Martin\Desktop\TowerDefenseProject\TowerDefence\TowerDefence\obj\Debug\TowerDefence.Properties.Resources.resources
+C:\Users\Martin\Desktop\TowerDefenseProject\TowerDefence\TowerDefence\obj\Debug\TowerDefence.csproj.GenerateResource.Cache
+C:\Users\Martin\Desktop\TowerDefenseProject\TowerDefence\TowerDefence\obj\Debug\Interop.WMPLib.dll
+C:\Users\Martin\Desktop\TowerDefenseProject\TowerDefence\TowerDefence\obj\Debug\TowerDefence.csproj.ResolveComReference.cache
+C:\Users\Martin\Desktop\TowerDefenseProject\TowerDefence\TowerDefence\obj\Debug\TowerDefence.Form2.resources
+C:\Users\Martin\Desktop\TowerDefenseProject\TowerDefence\TowerDefence\bin\Debug\Space Wars.exe.config
+C:\Users\Martin\Desktop\TowerDefenseProject\TowerDefence\TowerDefence\bin\Debug\Space Wars.exe.manifest
+C:\Users\Martin\Desktop\TowerDefenseProject\TowerDefence\TowerDefence\bin\Debug\Space Wars.application
+C:\Users\Martin\Desktop\TowerDefenseProject\TowerDefence\TowerDefence\bin\Debug\Space Wars.exe
+C:\Users\Martin\Desktop\TowerDefenseProject\TowerDefence\TowerDefence\bin\Debug\Space Wars.pdb
+C:\Users\Martin\Desktop\TowerDefenseProject\TowerDefence\TowerDefence\obj\Debug\Space Wars.exe.manifest
+C:\Users\Martin\Desktop\TowerDefenseProject\TowerDefence\TowerDefence\obj\Debug\Space Wars.application
+C:\Users\Martin\Desktop\TowerDefenseProject\TowerDefence\TowerDefence\obj\Debug\Space Wars.exe
+C:\Users\Martin\Desktop\TowerDefenseProject\TowerDefence\TowerDefence\obj\Debug\Space Wars.pdb
+C:\Users\Martin\Desktop\TowerDefenseProject\TowerDefence\TowerDefence\obj\Debug\TowerDefence.Form3.resources
